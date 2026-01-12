@@ -5,5 +5,4 @@ Favorite Color: Green
 Weight: 79
 Height: 175
 
-Urifriski urifriski
-
+Urifriski 
