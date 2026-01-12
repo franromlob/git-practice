@@ -1,3 +1,7 @@
 Name: Ironhacker
-Age: 46
+
+Age: 25
 Favorite Color: Green
+Weight: 79
+Height: 175
+

@@ -1,0 +1,8 @@
+venv/
+.env/
+anaconda/
+*.csv
+*.json
+*.h5
+*.pt
+.env
