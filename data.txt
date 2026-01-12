@@ -4,5 +4,3 @@ Age: 25
 Favorite Color: Green
 Weight: 79
 Height: 175
-
-Urifriski 
