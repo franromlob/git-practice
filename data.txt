@@ -5,3 +5,5 @@ Favorite Color: Green
 Weight: 79
 Height: 175
 Hair: Long
+font-size: 18px
+color: blue
